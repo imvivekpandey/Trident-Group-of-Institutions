@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "639253011593",
+    "project_id": "trident-group-of-institu-9ce5c",
+    "storage_bucket": "trident-group-of-institu-9ce5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639253011593:android:7bbaa9195a79506ed9fa58",
+        "android_client_info": {
+          "package_name": "com.example.tridentgroupofinstitutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639253011593-vstqe8r88n6tmiusnef9aivlikrkmmh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tridentgroupofinstitutions",
+            "certificate_hash": "2616074ae907200deb441ac6c8a09169ffcff9b4"
+          }
+        },
+        {
+          "client_id": "639253011593-o5l6ka3suu64uj68jt783spcgj9ai1a6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiauYAgTowD-R7_fjkUmXb59gAd1X0uXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639253011593-o5l6ka3suu64uj68jt783spcgj9ai1a6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
